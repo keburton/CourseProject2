@@ -5,9 +5,9 @@ date: "January 21, 2016"
 output: html_document
 ---
 
-This coode book describes data found in the dataset *tidydata.txt*.  The raw data is available here [Raw Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
+This code book describes data found in the dataset *tidydata.txt*.  The raw data is available here [Raw Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
-The data has been treated with the script in run_analysis.R.
+The data has been treated with the script in run_analysis.R. 
 
 ## Identifiers
 * subject: subject id no.
